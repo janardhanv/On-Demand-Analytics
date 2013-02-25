@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/hbase
+END
+HBaseVertexInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/hbase/HBaseVertexInputFormat.java
+END
+HBaseVertexOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/hbase/HBaseVertexOutputFormat.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/hbase/package-info.java
+END

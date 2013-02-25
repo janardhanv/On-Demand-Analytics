@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler
+END
+RequestServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/RequestServerHandler.java
+END
+RequestDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/RequestDecoder.java
+END
+WorkerRequestReservedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/WorkerRequestReservedMap.java
+END
+AddressRequestIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/AddressRequestIdGenerator.java
+END
+ClientRequestId.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/ClientRequestId.java
+END
+RequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/RequestInfo.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/package-info.java
+END
+WorkerRequestServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/WorkerRequestServerHandler.java
+END
+RequestEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/RequestEncoder.java
+END
+MasterRequestServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/MasterRequestServerHandler.java
+END
+ResponseClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/handler/ResponseClientHandler.java
+END

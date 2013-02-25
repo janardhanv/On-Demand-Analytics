@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1365352/giraph/trunk/giraph-formats-contrib/src/test/java/org/apache/giraph/format/accumulo/edgemarker
+END
+AccumuloEdgeInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1365352/giraph/trunk/giraph-formats-contrib/src/test/java/org/apache/giraph/format/accumulo/edgemarker/AccumuloEdgeInputFormat.java
+END
+AccumuloEdgeOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1365352/giraph/trunk/giraph-formats-contrib/src/test/java/org/apache/giraph/format/accumulo/edgemarker/AccumuloEdgeOutputFormat.java
+END

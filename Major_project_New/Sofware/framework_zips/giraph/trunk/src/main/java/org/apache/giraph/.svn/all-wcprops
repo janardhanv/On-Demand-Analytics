@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1391838/giraph/trunk/src/main/java/org/apache/giraph
+END
+ImmutableClassesGiraphConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/ImmutableClassesGiraphConfiguration.java
+END
+GiraphConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/GiraphConfiguration.java
+END
+GiraphRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/GiraphRunner.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/package-info.java
+END
+ImmutableClassesGiraphConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/ImmutableClassesGiraphConfigurable.java
+END

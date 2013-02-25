@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/utils
+END
+UnmodifiableIntArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/utils/UnmodifiableIntArrayIterator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/utils/package-info.java
+END
+FakeTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/utils/FakeTime.java
+END
+UnmodifiableLongArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/utils/UnmodifiableLongArrayIterator.java
+END
+MemoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/utils/MemoryUtils.java
+END
+WritableUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/utils/WritableUtils.java
+END
+ComparisonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/utils/ComparisonUtils.java
+END
+AnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1362165/giraph/trunk/src/main/java/org/apache/giraph/utils/AnnotationUtils.java
+END
+IncreasingBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/utils/IncreasingBitSet.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/utils/Time.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/utils/FileUtils.java
+END
+UnmodifiableLongFloatEdgeArrayIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/utils/UnmodifiableLongFloatEdgeArrayIterable.java
+END
+UnmodifiableDoubleArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/utils/UnmodifiableDoubleArrayIterator.java
+END
+TimedLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1373609/giraph/trunk/src/main/java/org/apache/giraph/utils/TimedLogger.java
+END
+SystemTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/utils/SystemTime.java
+END
+InternalVertexRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/utils/InternalVertexRunner.java
+END
+ArrayListWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/utils/ArrayListWritable.java
+END
+UnmodifiableLongNullEdgeArrayIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/utils/UnmodifiableLongNullEdgeArrayIterable.java
+END
+EmptyIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1358106/giraph/trunk/src/main/java/org/apache/giraph/utils/EmptyIterable.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/utils/MathUtils.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/utils/ReflectionUtils.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/utils/CollectionUtils.java
+END

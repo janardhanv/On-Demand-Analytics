@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1390018/giraph/trunk/src/main/java/org/apache/giraph/comm/messages
+END
+MessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/MessageStore.java
+END
+BasicMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/BasicMessageStore.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/package-info.java
+END
+DiskBackedMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/DiskBackedMessageStore.java
+END
+MessageStoreByPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/MessageStoreByPartition.java
+END
+FlushableMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/FlushableMessageStore.java
+END
+MessageStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/MessageStoreFactory.java
+END
+DiskBackedMessageStoreByPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1369508/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/DiskBackedMessageStoreByPartition.java
+END
+SimpleMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1390018/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/SimpleMessageStore.java
+END
+SequentialFileMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/messages/SequentialFileMessageStore.java
+END

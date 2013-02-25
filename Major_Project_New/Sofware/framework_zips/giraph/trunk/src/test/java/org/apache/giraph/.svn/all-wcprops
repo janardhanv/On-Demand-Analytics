@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/test/java/org/apache/giraph
+END
+BspCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/BspCase.java
+END
+TestAutoCheckpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestAutoCheckpoint.java
+END
+TestMutateGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1377179/giraph/trunk/src/test/java/org/apache/giraph/TestMutateGraph.java
+END
+TestVertexTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestVertexTypes.java
+END
+TestGraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestGraphPartitioner.java
+END
+TestZooKeeperExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1358106/giraph/trunk/src/test/java/org/apache/giraph/TestZooKeeperExt.java
+END
+TestManualCheckpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestManualCheckpoint.java
+END
+TestBspBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/test/java/org/apache/giraph/TestBspBasic.java
+END
+TestJsonBase64Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestJsonBase64Format.java
+END
+TestPredicateLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1379162/giraph/trunk/src/test/java/org/apache/giraph/TestPredicateLock.java
+END
+TestAggregatorsHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestAggregatorsHandling.java
+END
+TestNotEnoughMapTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/TestNotEnoughMapTasks.java
+END

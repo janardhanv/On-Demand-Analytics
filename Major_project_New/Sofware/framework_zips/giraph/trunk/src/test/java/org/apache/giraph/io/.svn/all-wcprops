@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/io
+END
+TestIdWithValueTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/test/java/org/apache/giraph/io/TestIdWithValueTextOutputFormat.java
+END
+TestAdjacencyListTextVertexOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/test/java/org/apache/giraph/io/TestAdjacencyListTextVertexOutputFormat.java
+END
+TestLongDoubleDoubleAdjacencyListVertexInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/io/TestLongDoubleDoubleAdjacencyListVertexInputFormat.java
+END
+TestTextDoubleDoubleAdjacencyListVertexInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/io/TestTextDoubleDoubleAdjacencyListVertexInputFormat.java
+END

@@ -1,0 +1,160 @@
+\indexentry{base-package@\texttt  {base-package}|hyperpage}{1}
+\indexentry{base@\texttt  {base} \textit  {(\texttt  {base-package})}|hyperpage}{1}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {package}}!base-package@\texttt  {base-package}|hyperpage}{1}
+\indexentry{.Device@\texttt  {.Device}|hyperpage}{1}
+\indexentry{.Devices@\texttt  {.Devices} \textit  {(\texttt  {.Device})}|hyperpage}{1}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {device}}!.Device@\texttt  {.Device}|hyperpage}{1}
+\indexentry{dev.cur@\texttt  {dev.cur}|textit}{1}
+\indexentry{pairlist@\texttt  {pairlist}|textit}{1}
+\indexentry{.Machine@\texttt  {.Machine}|hyperpage}{1}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {sysdata}}!.Machine@\texttt  {.Machine}|hyperpage}{1}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {programming}}!.Machine@\texttt  {.Machine}|hyperpage}{1}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {math}}!.Machine@\texttt  {.Machine}|hyperpage}{1}
+\indexentry{sum@\texttt  {sum}|textit}{2}
+\indexentry{readBin@\texttt  {readBin}|textit}{2}
+\indexentry{.Platform@\texttt  {.Platform}|textit}{2}
+\indexentry{.Platform@\texttt  {.Platform}|hyperpage}{3}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {file}}!.Platform@\texttt  {.Platform}|hyperpage}{3}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {utilities}}!.Platform@\texttt  {.Platform}|hyperpage}{3}
+\indexentry{dyn.load@\texttt  {dyn.load}|textit}{3}
+\indexentry{dyn.load@\texttt  {dyn.load}|textit}{3}
+\indexentry{connection@\texttt  {connection}|textit}{3}
+\indexentry{readBin@\texttt  {readBin}|textit}{3}
+\indexentry{options@\texttt  {options}|textit}{3}
+\indexentry{menu@\texttt  {menu}|textit}{3}
+\indexentry{select.list@\texttt  {select.list}|textit}{3}
+\indexentry{R.version@\texttt  {R.version}|textit}{3}
+\indexentry{Sys.info@\texttt  {Sys.info}|textit}{3}
+\indexentry{.Machine@\texttt  {.Machine}|textit}{3}
+\indexentry{system@\texttt  {system}|textit}{3}
+\indexentry{abbreviate@\texttt  {abbreviate}|hyperpage}{4}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {character}}!abbreviate@\texttt  {abbreviate}|hyperpage}{4}
+\indexentry{as.character@\texttt  {as.character}|textit}{4}
+\indexentry{substr@\texttt  {substr}|textit}{4}
+\indexentry{agrep@\texttt  {agrep}|hyperpage}{5}
+\indexentry{.amatch\_bounds@\texttt  {.amatch\_bounds} \textit  {(\texttt  {agrep})}|hyperpage}{5}
+\indexentry{.amatch\_costs@\texttt  {.amatch\_costs} \textit  {(\texttt  {agrep})}|hyperpage}{5}
+\indexentry{fuzzy matching@\texttt  {fuzzy matching} \textit  {(\texttt  {agrep})}|hyperpage}{5}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {character}}!agrep@\texttt  {agrep}|hyperpage}{5}
+\indexentry{as.character@\texttt  {as.character}|textit}{5}
+\indexentry{as.character@\texttt  {as.character}|textit}{5}
+\indexentry{as.integer@\texttt  {as.integer}|textit}{5}
+\indexentry{grep@\texttt  {grep}|textit}{5}
+\indexentry{adist@\texttt  {adist}|textit}{5}
+\indexentry{grep@\texttt  {grep}|textit}{5}
+\indexentry{all@\texttt  {all}|hyperpage}{6}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {logic}}!all@\texttt  {all}|hyperpage}{6}
+\indexentry{Summary@\texttt  {Summary}|textit}{6}
+\indexentry{primitive@\texttt  {primitive}|textit}{6}
+\indexentry{Summary@\texttt  {Summary}|textit}{6}
+\indexentry{any@\texttt  {any}|textit}{6}
+\indexentry{stopifnot@\texttt  {stopifnot}|textit}{6}
+\indexentry{all.equal@\texttt  {all.equal}|hyperpage}{7}
+\indexentry{attr.all.equal@\texttt  {attr.all.equal} \textit  {(\texttt  {all.equal})}|hyperpage}{7}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {programming}}!all.equal@\texttt  {all.equal}|hyperpage}{7}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {utilities}}!all.equal@\texttt  {all.equal}|hyperpage}{7}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {logic}}!all.equal@\texttt  {all.equal}|hyperpage}{7}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {arith}}!all.equal@\texttt  {all.equal}|hyperpage}{7}
+\indexentry{identical@\texttt  {identical}|textit}{7}
+\indexentry{attributes@\texttt  {attributes}|textit}{7}
+\indexentry{names@\texttt  {names}|textit}{7}
+\indexentry{methods@\texttt  {methods}|textit}{7}
+\indexentry{Mod@\texttt  {Mod}|textit}{7}
+\indexentry{attributes@\texttt  {attributes}|textit}{7}
+\indexentry{mode@\texttt  {mode}|textit}{7}
+\indexentry{identical@\texttt  {identical}|textit}{7}
+\indexentry{isTRUE@\texttt  {isTRUE}|textit}{7}
+\indexentry{==@\texttt  {==}|textit}{7}
+\indexentry{all@\texttt  {all}|textit}{7}
+\indexentry{all.names@\texttt  {all.names}|hyperpage}{8}
+\indexentry{all.vars@\texttt  {all.vars} \textit  {(\texttt  {all.names})}|hyperpage}{8}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {programming}}!all.names@\texttt  {all.names}|hyperpage}{8}
+\indexentry{expression@\texttt  {expression}|textit}{8}
+\indexentry{call@\texttt  {call}|textit}{8}
+\indexentry{substitute@\texttt  {substitute}|textit}{8}
+\indexentry{any@\texttt  {any}|hyperpage}{8}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {logic}}!any@\texttt  {any}|hyperpage}{8}
+\indexentry{Summary@\texttt  {Summary}|textit}{8}
+\indexentry{primitive@\texttt  {primitive}|textit}{8}
+\indexentry{Summary@\texttt  {Summary}|textit}{8}
+\indexentry{all@\texttt  {all}|textit}{8}
+\indexentry{aperm@\texttt  {aperm}|hyperpage}{9}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {array}}!aperm@\texttt  {aperm}|hyperpage}{9}
+\indexentry{t@\texttt  {t}|textit}{9}
+\indexentry{append@\texttt  {append}|hyperpage}{9}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {manip}}!append@\texttt  {append}|hyperpage}{9}
+\indexentry{apply@\texttt  {apply}|hyperpage}{10}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {iteration}}!apply@\texttt  {apply}|hyperpage}{10}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {array}}!apply@\texttt  {apply}|hyperpage}{10}
+\indexentry{dim@\texttt  {dim}|textit}{10}
+\indexentry{match.fun@\texttt  {match.fun}|textit}{10}
+\indexentry{as.vector@\texttt  {as.vector}|textit}{10}
+\indexentry{lapply@\texttt  {lapply}|textit}{10}
+\indexentry{simplify2array@\texttt  {simplify2array}|textit}{10}
+\indexentry{tapply@\texttt  {tapply}|textit}{10}
+\indexentry{sweep@\texttt  {sweep}|textit}{10}
+\indexentry{aggregate@\texttt  {aggregate}|textit}{10}
+\indexentry{args@\texttt  {args}|hyperpage}{11}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {documentation}}!args@\texttt  {args}|hyperpage}{11}
+\indexentry{formals@\texttt  {formals}|textit}{11}
+\indexentry{formals@\texttt  {formals}|textit}{11}
+\indexentry{help@\texttt  {help}|textit}{11}
+\indexentry{Arithmetic@\texttt  {Arithmetic}|hyperpage}{11}
+\indexentry{\%\%@\texttt  {\%\%} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{\%/\%@\texttt  {\%/\%} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{*@\texttt  {*} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{**@\texttt  {**} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{+@\texttt  {+} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{-@\texttt  {-} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{/@\texttt  {/} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{\textasciicircum {}@\texttt  {\textasciicircum {}} \textit  {(\texttt  {Arithmetic})}|hyperpage}{11}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {arith}}!Arithmetic@\texttt  {Arithmetic}|hyperpage}{11}
+\indexentry{Ops@\texttt  {Ops}|textit}{12}
+\indexentry{Ops@\texttt  {Ops}|textit}{12}
+\indexentry{Inf@\texttt  {Inf}|textit}{12}
+\indexentry{double@\texttt  {double}|textit}{12}
+\indexentry{double@\texttt  {double}|textit}{12}
+\indexentry{warning@\texttt  {warning}|textit}{12}
+\indexentry{NA\_integer\_@\texttt  {NA\_integer\_}|textit}{12}
+\indexentry{NaN@\texttt  {NaN}|textit}{12}
+\indexentry{typeof@\texttt  {typeof}|textit}{12}
+\indexentry{integer@\texttt  {integer}|textit}{12}
+\indexentry{numeric@\texttt  {numeric}|textit}{12}
+\indexentry{tsp@\texttt  {tsp}|textit}{12}
+\indexentry{Arith@\texttt  {Arith}|textit}{12}
+\indexentry{.Machine@\texttt  {.Machine}|textit}{12}
+\indexentry{sqrt@\texttt  {sqrt}|textit}{12}
+\indexentry{Special@\texttt  {Special}|textit}{12}
+\indexentry{Syntax@\texttt  {Syntax}|textit}{12}
+\indexentry{\Rpercent {}*\Rpercent {}@\texttt  {\Rpercent {}*\Rpercent {}}|textit}{12}
+\indexentry{array@\texttt  {array}|hyperpage}{13}
+\indexentry{as.array@\texttt  {as.array} \textit  {(\texttt  {array})}|hyperpage}{13}
+\indexentry{is.array@\texttt  {is.array} \textit  {(\texttt  {array})}|hyperpage}{13}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {array}}!array@\texttt  {array}|hyperpage}{13}
+\indexentry{expression@\texttt  {expression}|textit}{13}
+\indexentry{as.vector@\texttt  {as.vector}|textit}{13}
+\indexentry{attributes@\texttt  {attributes}|textit}{13}
+\indexentry{matrix@\texttt  {matrix}|textit}{13}
+\indexentry{str@\texttt  {str}|textit}{13}
+\indexentry{primitive@\texttt  {primitive}|textit}{13}
+\indexentry{dim@\texttt  {dim}|textit}{13}
+\indexentry{dimnames@\texttt  {dimnames}|textit}{13}
+\indexentry{names@\texttt  {names}|textit}{13}
+\indexentry{InternalMethods@\texttt  {InternalMethods}|textit}{13}
+\indexentry{primitive@\texttt  {primitive}|textit}{13}
+\indexentry{aperm@\texttt  {aperm}|textit}{13}
+\indexentry{matrix@\texttt  {matrix}|textit}{13}
+\indexentry{dim@\texttt  {dim}|textit}{13}
+\indexentry{dimnames@\texttt  {dimnames}|textit}{13}
+\indexentry{as.data.frame@\texttt  {as.data.frame}|hyperpage}{14}
+\indexentry{is.data.frame@\texttt  {is.data.frame} \textit  {(\texttt  {as.data.frame})}|hyperpage}{14}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {classes}}!as.data.frame@\texttt  {as.data.frame}|hyperpage}{14}
+\indexentry{$*$Topic{\relax \fontsize  {12}{14}\selectfont  \ \textbf  {methods}}!as.data.frame@\texttt  {as.data.frame}|hyperpage}{14}
+\indexentry{make.names@\texttt  {make.names}|textit}{14}
+\indexentry{model.matrix@\texttt  {model.matrix}|textit}{14}
+\indexentry{POSIXlt@\texttt  {POSIXlt}|textit}{14}
+\indexentry{POSIXct@\texttt  {POSIXct}|textit}{14}
+\indexentry{I@\texttt  {I}|textit}{14}
+\indexentry{I@\texttt  {I}|textit}{14}
+\indexentry{data.frame@\texttt  {data.frame}|textit}{14}
+\indexentry{as.data.frame.table@\texttt  {as.data.frame.table}|textit}{14}

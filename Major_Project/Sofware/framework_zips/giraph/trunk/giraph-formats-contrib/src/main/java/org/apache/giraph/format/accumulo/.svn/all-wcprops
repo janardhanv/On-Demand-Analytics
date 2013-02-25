@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/accumulo
+END
+AccumuloVertexInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/accumulo/AccumuloVertexInputFormat.java
+END
+AccumuloVertexOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/accumulo/AccumuloVertexOutputFormat.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1344020/giraph/trunk/giraph-formats-contrib/src/main/java/org/apache/giraph/format/accumulo/package-info.java
+END

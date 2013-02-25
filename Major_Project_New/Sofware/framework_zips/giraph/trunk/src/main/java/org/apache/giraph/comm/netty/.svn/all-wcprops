@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty
+END
+ChannelRotater.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/ChannelRotater.java
+END
+NettyServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1390709/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyServer.java
+END
+NettyWorkerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyWorkerClient.java
+END
+WrappedAdaptiveReceiveBufferSizePredictorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1390709/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/WrappedAdaptiveReceiveBufferSizePredictorFactory.java
+END
+NettyMasterClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyMasterClient.java
+END
+NettyClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1390709/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyClient.java
+END
+ByteCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/ByteCounter.java
+END
+NettyWorkerClientServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyWorkerClientServer.java
+END
+NettyWorkerServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1390102/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyWorkerServer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/package-info.java
+END
+NettyMasterClientServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyMasterClientServer.java
+END
+NettyMasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/netty/NettyMasterServer.java
+END

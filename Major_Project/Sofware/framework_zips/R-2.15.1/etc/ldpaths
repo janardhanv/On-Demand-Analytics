@@ -1,0 +1,16 @@
+: ${JAVA_HOME=/usr/lib/jvm/java-6-openjdk-i386/jre}
+: ${R_JAVA_LD_LIBRARY_PATH=${JAVA_HOME}/lib/i386/server:${JAVA_HOME}/lib/i386:/usr/lib/i386-linux-gnu/jni:/lib/i386-linux-gnu:/usr/lib/i386-linux-gnu:/usr/lib/jni}
+if test -n "/usr/local/lib"; then
+: ${R_LD_LIBRARY_PATH=${R_HOME}/lib:/usr/local/lib}
+else
+: ${R_LD_LIBRARY_PATH=${R_HOME}/lib}
+fi
+if test -n "${R_JAVA_LD_LIBRARY_PATH}"; then
+  R_LD_LIBRARY_PATH="${R_LD_LIBRARY_PATH}:${R_JAVA_LD_LIBRARY_PATH}"
+fi
+if test -z "${LD_LIBRARY_PATH}"; then
+  LD_LIBRARY_PATH="${R_LD_LIBRARY_PATH}"
+else
+  LD_LIBRARY_PATH="${R_LD_LIBRARY_PATH}:${LD_LIBRARY_PATH}"
+fi
+export LD_LIBRARY_PATH

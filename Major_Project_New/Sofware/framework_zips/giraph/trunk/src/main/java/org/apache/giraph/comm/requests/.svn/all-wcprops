@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/requests
+END
+SendPartitionCurrentMessagesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/SendPartitionCurrentMessagesRequest.java
+END
+RequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/RequestType.java
+END
+SendPartitionMutationsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/SendPartitionMutationsRequest.java
+END
+SendVertexRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/SendVertexRequest.java
+END
+WorkerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/WorkerRequest.java
+END
+WritableRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/WritableRequest.java
+END
+MasterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/MasterRequest.java
+END
+SendPartitionMessagesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/SendPartitionMessagesRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/requests/package-info.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1390102/giraph/trunk/src/main/java/org/apache/giraph/graph/partition
+END
+PartitionOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionOwner.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/package-info.java
+END
+PartitionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1377179/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionStore.java
+END
+BasicPartitionOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/BasicPartitionOwner.java
+END
+PartitionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionStats.java
+END
+RangeMasterPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangeMasterPartitioner.java
+END
+PartitionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionUtils.java
+END
+DiskBackedPartitionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/DiskBackedPartitionStore.java
+END
+RangeSplitHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangeSplitHint.java
+END
+HashPartitionerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/HashPartitionerFactory.java
+END
+MasterGraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/MasterGraphPartitioner.java
+END
+HashWorkerPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1377179/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/HashWorkerPartitioner.java
+END
+SimplePartitionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/SimplePartitionStore.java
+END
+PartitionBalancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionBalancer.java
+END
+RangePartitionOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangePartitionOwner.java
+END
+RangePartitionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangePartitionStats.java
+END
+RangePartitionerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangePartitionerFactory.java
+END
+RangeWorkerPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/RangeWorkerPartitioner.java
+END
+Partition.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1390102/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/Partition.java
+END
+HashRangePartitionerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/HashRangePartitionerFactory.java
+END
+GraphPartitionerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/GraphPartitionerFactory.java
+END
+HashRangeWorkerPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/HashRangeWorkerPartitioner.java
+END
+PartitionExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/PartitionExchange.java
+END
+WorkerGraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1377179/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/WorkerGraphPartitioner.java
+END
+HashMasterPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/graph/partition/HashMasterPartitioner.java
+END

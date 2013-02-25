@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm
+END
+IncreasingBitSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/test/java/org/apache/giraph/comm/IncreasingBitSetTest.java
+END
+RPCCommunicationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm/RPCCommunicationsTest.java
+END
+ConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm/ConnectionTest.java
+END
+RequestFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm/RequestFailureTest.java
+END
+TestMessageStores.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm/TestMessageStores.java
+END
+RequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/test/java/org/apache/giraph/comm/RequestTest.java
+END

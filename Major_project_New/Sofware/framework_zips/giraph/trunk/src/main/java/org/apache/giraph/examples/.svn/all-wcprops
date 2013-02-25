@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples
+END
+DoubleSumCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/examples/DoubleSumCombiner.java
+END
+GeneratedVertexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples/GeneratedVertexReader.java
+END
+SimpleFailVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleFailVertex.java
+END
+NormalizingLongDoubleFloatDoubleTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/main/java/org/apache/giraph/examples/NormalizingLongDoubleFloatDoubleTextInputFormat.java
+END
+SimpleTextVertexOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleTextVertexOutputFormat.java
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1362165/giraph/trunk/src/main/java/org/apache/giraph/examples/Algorithm.java
+END
+IdentityVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/IdentityVertex.java
+END
+SimpleAggregatorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1371108/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleAggregatorWriter.java
+END
+SimpleMutateGraphVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleMutateGraphVertex.java
+END
+RandomWalkWorkerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/examples/RandomWalkWorkerContext.java
+END
+SimpleLongDoubleDoubleDoubleIdentityVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1371498/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleLongDoubleDoubleDoubleIdentityVertex.java
+END
+AggregatorsTestVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1371108/giraph/trunk/src/main/java/org/apache/giraph/examples/AggregatorsTestVertex.java
+END
+SimpleOutDegreeCountVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1374906/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleOutDegreeCountVertex.java
+END
+ConnectedComponentsVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/ConnectedComponentsVertex.java
+END
+LongDoubleFloatDoubleTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/main/java/org/apache/giraph/examples/LongDoubleFloatDoubleTextInputFormat.java
+END
+VertexWithDoubleValueFloatEdgeTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1388258/giraph/trunk/src/main/java/org/apache/giraph/examples/VertexWithDoubleValueFloatEdgeTextOutputFormat.java
+END
+SimpleVertexWithWorkerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleVertexWithWorkerContext.java
+END
+SimpleShortestPathsVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleShortestPathsVertex.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/examples/package-info.java
+END
+MinimumDoubleCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/MinimumDoubleCombiner.java
+END
+SimpleTriangleClosingVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleTriangleClosingVertex.java
+END
+SimpleSumCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleSumCombiner.java
+END
+RandomWalkVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/examples/RandomWalkVertex.java
+END
+SimpleMsgVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleMsgVertex.java
+END
+RandomWalkWithRestartVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383115/giraph/trunk/src/main/java/org/apache/giraph/examples/RandomWalkWithRestartVertex.java
+END
+SimpleCheckpointVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleCheckpointVertex.java
+END
+SimplePageRankVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples/SimplePageRankVertex.java
+END
+SimpleMasterComputeVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1371108/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleMasterComputeVertex.java
+END
+SimpleSuperstepVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleSuperstepVertex.java
+END
+SimpleInDegreeCountVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1374906/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleInDegreeCountVertex.java
+END
+MinimumIntCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/examples/MinimumIntCombiner.java
+END
+SimpleCombinerVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/examples/SimpleCombinerVertex.java
+END
+VerifyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1371108/giraph/trunk/src/main/java/org/apache/giraph/examples/VerifyMessage.java
+END

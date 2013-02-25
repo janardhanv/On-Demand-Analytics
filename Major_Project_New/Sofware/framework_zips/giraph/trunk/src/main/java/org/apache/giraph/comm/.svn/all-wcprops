@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1390885/giraph/trunk/src/main/java/org/apache/giraph/comm
+END
+MasterClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1377792/giraph/trunk/src/main/java/org/apache/giraph/comm/MasterClient.java
+END
+RPCCommunications.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/RPCCommunications.java
+END
+WorkerClientServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/comm/WorkerClientServer.java
+END
+BasicRPCCommunications.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/BasicRPCCommunications.java
+END
+WorkerServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1377179/giraph/trunk/src/main/java/org/apache/giraph/comm/WorkerServer.java
+END
+ServerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/ServerData.java
+END
+WorkerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/comm/WorkerClient.java
+END
+VertexList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/VertexList.java
+END
+CommunicationsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1370085/giraph/trunk/src/main/java/org/apache/giraph/comm/CommunicationsInterface.java
+END
+VertexIdMessagesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/VertexIdMessagesList.java
+END
+SendMutationsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/comm/SendMutationsCache.java
+END
+MasterClientServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1377792/giraph/trunk/src/main/java/org/apache/giraph/comm/MasterClientServer.java
+END
+VertexIdMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1365352/giraph/trunk/src/main/java/org/apache/giraph/comm/VertexIdMessages.java
+END
+SendMessageCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1390014/giraph/trunk/src/main/java/org/apache/giraph/comm/SendMessageCache.java
+END
+MsgList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1378761/giraph/trunk/src/main/java/org/apache/giraph/comm/MsgList.java
+END
+MasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1377792/giraph/trunk/src/main/java/org/apache/giraph/comm/MasterServer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1342345/giraph/trunk/src/main/java/org/apache/giraph/comm/package-info.java
+END
